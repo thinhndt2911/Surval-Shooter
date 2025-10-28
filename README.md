@@ -1,1 +1,1 @@
-# Surval-Shooter
+Surval Shooter là một trò chơi 2D thuộc thể loại Casual game Trò chơi sử dụng game Engine Unity để phát triển và phần mềm Visual Studio để lập trình và tạo các hoạt động, hoạt ảnh trong game. Trong game, người chơi sẽ nhập vai vào nhân vật chính và phải liên tục chiến đấu với các đợt kẻ địch xuất hiện ngày càng đông đảo
